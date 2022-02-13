@@ -4,7 +4,7 @@ Nama saya Mohammad Faisal Ramdhani.
 
 Saya seorang mahasiswa semester 6 di Universitas Pendidikan Indonesia program studi Bisnis Digital.
 
-Saya tertarik menjadi **Web Developer**
+Saya tertarik menjadi **Web Developer**.
 
 Saya sedang mengikuti kursus di Dicoding.
 
